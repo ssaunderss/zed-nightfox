@@ -1,6 +1,6 @@
 id = "zed-nightfox"
 name = "Nightfox Themes"
-version = "0.1.1"
+version = "0.1.2"
 schema_version = 1
 authors = ["ssaunderss <austinsaunders@me.com>"]
 description = "Nightfox themes for Zed"
